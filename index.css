@@ -28,3 +28,24 @@ li a:hover:not(.active){
 .active{
     background-color: #ffa600;
 }
+
+h1{
+    font-family: 'Rubik', sans-serif;
+}
+
+h2{
+    font-family: 'Rubik', sans-serif;
+}
+
+h3{
+    font-family: 'Rubik', sans-serif;
+}
+
+h4{
+    font-family: 'Rubik', sans-serif;
+}
+
+/*Font Rubik*/
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+</style>
